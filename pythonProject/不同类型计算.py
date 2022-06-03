@@ -1,0 +1,9 @@
+i=10
+f=12.5
+b=True
+print(i+b)
+print(i*f)
+a="李"
+c="四"
+print(a+c)
+print((a+c)*10)
